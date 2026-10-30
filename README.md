@@ -1,1 +1,2 @@
 The L1outPRS program will create polygenic risk scores for different sets of best genetic variants. Results are cross-validated with the Leave-1-out method. See the manual, L1outPRS_manual.pdf. The L0PRS program is analogous to L1outPRS but without cross-validation and works very fast.
+Executable files L1outPRS and L0PRS run in Linux.
